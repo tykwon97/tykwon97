@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=TaeYoonKwon&fontSize=70&animation=blink)
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tyoon97)](https://solved.ac/tyoon97)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tyoon97&theme=dark)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tykwon97&layout=compact)](https://github.com/tykwon97/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tykwon97&show_icons=true&theme=radical)
+
+<!--
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-squar&logo=linux&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/github-181717?style=flat-squar&logo=github&logoColor=white"/></a>&nbsp 
 </p>
-<!--
+
 
   <img src="https://img.shields.io/badge/html-E34F26?style=flat-squar&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-squar&logo=css3&logoColor=white"/></a>&nbsp 

@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=TaeYoonKwon&fontSize=70&animation=blink)
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tyoon97)](https://solved.ac/tyoon97)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tyoon97&theme=dark)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tykwon97)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tykwon97&show_icons=true&theme=radical)
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
@@ -39,3 +44,4 @@ https://github.com/kyechan99/capsule-render#how-to-use
 https://github.com/wookyoungkim/wookyoungkim/blob/main/README.md
 https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 -->
+

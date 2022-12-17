@@ -8,8 +8,8 @@
 
 
 #### 💻 Project
-[TripFul [관광지 소개 사이트]](https://github.com/tykwon97/Tripful)  
-[분리수거 척척박사 [딥 러닝 기반 재활용 쓰레기 자동 분류 어플]](https://github.com/tykwon97/Tripful](https://github.com/tykwon97/ChuckChuckBakSa))  
+- [TripFul [관광지 소개 사이트]](https://github.com/tykwon97/Tripful)  
+- [분리수거 척척박사 [딥 러닝 기반 재활용 쓰레기 자동 분류 어플]](https://github.com/tykwon97/Tripful](https://github.com/tykwon97/ChuckChuckBakSa))  
 
 #### 📌 Experience
 - **SSAFY 8기** (2022.07~ing)

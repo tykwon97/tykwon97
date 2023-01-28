@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my home
 
 #### ✨ GitHub Stats
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tyoon97)](https://solved.ac/tyoon97)

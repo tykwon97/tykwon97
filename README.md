@@ -1,5 +1,5 @@
 ### Welcome to my home 👋
-### 2023년은 행복하자
+#### 2023년은 행복만
 #### ✨ GitHub Stats
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tyoon97)](https://solved.ac/tyoon97)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tyoon97&theme=dark)  

@@ -12,6 +12,7 @@
 #### 💻 Project
 - [C#OOM [AI 기반 유행하는 챌린지(춤)를 배울 수 있는 서비스]](https://github.com/tykwon97/CHOOM)
 - [TripFul [관광지 소개 사이트]](https://github.com/tykwon97/Tripful)  
+- [RunStory [러닝 크루 예약 서비스 및 러닝 커뮤니티]](https://github.com/tykwon97/Runstory)
 - [분리수거 척척박사 [딥 러닝 기반 재활용 쓰레기 자동 분류 어플]](https://github.com/tykwon97/Tripful](https://github.com/tykwon97/ChuckChuckBakSa))  
 
 #### 📌 Experience

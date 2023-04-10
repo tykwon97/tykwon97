@@ -11,9 +11,8 @@
 ####   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftykwon97%2Fhit-counter&count_bg=%23F1D2F9&title_bg=%23C88CE7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 #### 💻 Project
 - [C#OOM [AI 기반 유행하는 챌린지(춤)를 배울 수 있는 서비스]](https://github.com/tykwon97/CHOOM)
-- [TripFul [관광지 소개 사이트]](https://github.com/tykwon97/Tripful)  
 - [RunStory [러닝 크루 예약 서비스 및 러닝 커뮤니티]](https://github.com/tykwon97/Runstory)
-- [분리수거 척척박사 [딥 러닝 기반 재활용 쓰레기 자동 분류 어플]](https://github.com/tykwon97/Tripful](https://github.com/tykwon97/ChuckChuckBakSa))  
+- [Travalue [여행 매거진 서비스]](https://github.com/Travalue/Travalue-Server)  
 
 #### 📌 Experience
 - **SSAFY 8기** (2022.07~ing)

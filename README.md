@@ -14,4 +14,4 @@
 - [Travalue [여행 매거진 서비스]](https://github.com/Travalue/Travalue-Server)  
 
 #### 📌 Experience
-- **SSAFY 8기** (2022.07~ing)
+- **SSAFY 8기** (2022.07~2023.06)
